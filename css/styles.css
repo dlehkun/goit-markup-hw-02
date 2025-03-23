@@ -26,7 +26,6 @@ body {
 
 .page-nav .link-studio:hover {
   color: #404bbf;
-  text-decoration: underline;
 }
 
 .page-nav .link-studio:focus {
@@ -48,14 +47,22 @@ body {
   color: #404bbf;
 }
 
+.order-service {
+  background-color: #4d5ae5;
+}
+
+.order-service:hover {
+  background-color: #404bbf;
+}
+
 .section-list {
   list-style-type: none;
 }
 
-.team-list {
+.dudes-list {
   list-style-type: none;
 }
 
-.portfolio-list {
+.work-list {
   list-style-type: none;
 }
