@@ -3,3 +3,59 @@ body {
   color: #2e2f42;
   background-color: #ffffff;
 }
+
+.logo-link {
+  text-decoration: none;
+}
+
+.page-nav {
+  list-style-type: none;
+}
+
+.page-nav .link {
+  text-decoration: none;
+}
+
+.page-nav .link:hover {
+  color: #404bbf;
+}
+
+.page-nav .link-studio {
+  text-decoration: none;
+}
+
+.page-nav .link-studio:hover {
+  color: #404bbf;
+  text-decoration: underline;
+}
+
+.page-nav .link-studio:focus {
+  color: #404bbf;
+  text-decoration: underline;
+}
+
+.contact-list {
+  list-style-type: none;
+}
+
+.contact-list .contact {
+  color: #434455;
+  text-decoration: none;
+}
+
+.contact-list .contact:hover,
+.contact-list .contact:focus {
+  color: #404bbf;
+}
+
+.section-list {
+  list-style-type: none;
+}
+
+.team-list {
+  list-style-type: none;
+}
+
+.portfolio-list {
+  list-style-type: none;
+}
