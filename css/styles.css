@@ -6,6 +6,20 @@ body {
 
 .logo-link {
   text-decoration: none;
+  font-family: "Raleway", "Roboto", sans-serif;
+  font-size: 18px;
+  color: 4D5AE5;
+  line-height: 1.6667;
+  font-weight: 700;
+}
+
+.logo-link-second-part {
+  text-decoration: none;
+  font-family: "Raleway", "Roboto", sans-serif;
+  font-size: 18px;
+  color: #2e2f42;
+  line-height: 1.6667;
+  font-weight: 700;
 }
 
 .page-nav {
@@ -14,6 +28,10 @@ body {
 
 .page-nav .link {
   text-decoration: none;
+  font-size: 16px;
+  color: #2e2f42;
+  line-height: 1.5;
+  font-weight: 500;
 }
 
 .page-nav .link:hover {
@@ -22,6 +40,10 @@ body {
 
 .page-nav .link-studio {
   text-decoration: none;
+  font-size: 16px;
+  color: #2e2f42;
+  line-height: 1.5;
+  font-weight: 500;
 }
 
 .page-nav .link-studio:hover {
@@ -38,8 +60,10 @@ body {
 }
 
 .contact-list .contact {
+  font-size: 16px;
   color: #434455;
   text-decoration: none;
+  line-height: 1.5;
 }
 
 .contact-list .contact:hover,
@@ -47,22 +71,97 @@ body {
   color: #404bbf;
 }
 
+.main-page {
+  background-color: #2e2f42;
+}
+
+.page-title {
+  font-size: 56px;
+  color: #ffffff;
+  font-weight: 700;
+  line-height: 1.07143;
+}
+
 .order-service {
   background-color: #4d5ae5;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
 }
 
 .order-service:hover {
   background-color: #404bbf;
+  cursor: pointer;
 }
 
-.section-list {
+.advantages-list {
   list-style-type: none;
 }
 
-.dudes-list {
+.advantages-list .name-advantages {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.member {
+  background-color: #f4f4fd;
+}
+
+.member-title {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11111;
+}
+
+.member-list {
   list-style-type: none;
 }
 
-.work-list {
+.member-card {
+  background-color: #ffffff;
+}
+
+.member-name {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.member-text {
+  color: #434455;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.example-list {
   list-style-type: none;
+}
+
+.example-card {
+  background-color: #e7e9fc;
+}
+
+.example-name {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.example-text {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.bottom-page {
+  background-color: #2e2f42;
+}
+
+.bottom-page .logo-link-second-part {
+  color: #f4f4fd;
+}
+
+.bottom-text {
+  color: #f4f4fd;
 }
