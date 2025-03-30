@@ -32,7 +32,16 @@ body {
   list-style-type: none;
 }
 
-.page-nav .link {
+.page-nav .link-works {
+  text-decoration: none;
+  font-size: 16px;
+  color: #2e2f42;
+  line-height: 1.5;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+.page-nav .link-us {
   text-decoration: none;
   font-size: 16px;
   color: #2e2f42;
@@ -61,6 +70,10 @@ body {
 .page-nav .link-studio:focus {
   color: #404bbf;
   text-decoration: underline;
+}
+
+address {
+  font-style: normal;
 }
 
 .contact-list {
