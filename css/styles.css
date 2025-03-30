@@ -199,4 +199,6 @@ address {
 
 .bottom-text {
   color: #f4f4fd;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
