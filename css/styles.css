@@ -32,16 +32,7 @@ body {
   list-style-type: none;
 }
 
-.page-nav .link-works {
-  text-decoration: none;
-  font-size: 16px;
-  color: #2e2f42;
-  line-height: 1.5;
-  font-weight: 500;
-  letter-spacing: 0.02em;
-}
-
-.page-nav .link-us {
+.page-nav .link {
   text-decoration: none;
   font-size: 16px;
   color: #2e2f42;
@@ -52,15 +43,6 @@ body {
 
 .page-nav .link:hover {
   color: #404bbf;
-}
-
-.page-nav .link-studio {
-  text-decoration: none;
-  font-size: 16px;
-  color: #2e2f42;
-  line-height: 1.5;
-  font-weight: 500;
-  letter-spacing: 0.02em;
 }
 
 .page-nav .link-studio:hover {
